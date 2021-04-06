@@ -1,5 +1,8 @@
 # DBS Zadanie 4
 
+Tutorial na WorkBench:
+https://www.youtube.com/watch?v=7Pwj7nV-oRM
+
 #### Meno hry napady 
 (akoze je jedno ake meno to bude mat meno len ma napadli nejake blbosti tak treba vybrat jedno :D )  
 Gods of the hunt (GOTH)  
