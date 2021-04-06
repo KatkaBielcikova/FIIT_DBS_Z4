@@ -22,13 +22,13 @@ _**ROLES**_ = id, level_exp, max_level, level_lives_increase, level_attack_numbe
 _**ROLE_ABILITIES**_ = id, roleID, level, prerequired_abilityID
 
 
-
+\
 ### Priatelstva
  - ked raz ma zamietnutu pozvanku na priatelstvo uz nevie poslat dalsiu tomu pouzivatelovi
 
 _**FRIENDSHIPS**_ = id, userID_sender, userID_reciever, accepted (1/0),  rejected (1/0), ended (1/0), datetime as requested_at
 
-
+\
 ### Timy
  - admin je aj v tabulke TEAMMATES a je automaticky accepted
 
@@ -42,20 +42,20 @@ _**TEAMMATES**_ = id, teamID, userID, created_at, accepted, rejected, ended
 
 _**MESSAGES**_: id, userID_sender, ID_reciever, text, created_at
 
-
+\
 ### Ignore list
  - reciever je ten ktory je zablokovany a sender je ten co zablokoval
 
 _**IGNORE_LIST**_ = id, userID_sender, userID_reciever, created_at
 
-
+\
 ### Monsters
 
 _**MONSTER_LIST**_ = id, start_level, end_level, prerequired_monster (references monsterID), taskID_prerequired_task, exp_reward
 
 _**MONSTERS**_ = id, monsterID, characterID, lives (0 means kileld), attack_number (0 if killed), defense_number (0 if killed), coordinates (null if killed), areaID, killed_by (references characterID)
 
-
+\
 ### Tasks
 
 _**TASK_LIST**_ = id, areaID, killed_monsters_requirement, character_lvl, exp_reward
@@ -68,7 +68,7 @@ _**ITEM_LIST**_ = id, areaID, prerequired_kill (references monsterID), prerequir
 
 _**ITEMS**_ = id, ownerID (REFERENCES characterID), status (used = 1, unused=null), required_at, used_at
 
-
+\
 ### Combat
  - ked character x monster tak player1 = caracter, player2 = null
 
