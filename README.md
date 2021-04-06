@@ -1,6 +1,6 @@
 # DBS Zadanie 4
 
-Meno hry napady:
+Meno hry napady:  
 Gods of the hunt (GOTH)
 
 
