@@ -1,9 +1,11 @@
 # DBS Zadanie 4
 
 #### Meno hry napady 
-(akoze je jedno ake meno to bude mat len nech to ma dobru skratku :D )  
+(akoze je jedno ake meno to bude mat len nech to vyzera seriozne tak by to malo mat meno :D )  
 Gods of the hunt (GOTH)  
 Hunt of the year (HOTY)  
+Queens of the century (QOTC)
+Hunters and prey (HAP)
 
 
 <br/>
