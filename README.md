@@ -3,7 +3,7 @@
 Meno hry napady:
 Gods of the hunt (GOTH)
 
-------
+
 
 <br/>
 ## Registracia
