@@ -1,7 +1,9 @@
 # DBS Zadanie 4
 
-Meno hry napady: 
+#### Meno hry napady 
+(akoze je jedno ake meno to bude mat len nech to ma dobru skratku :D )
 Gods of the hunt (GOTH)
+Hunt of the year (HOTY)
 
 
 <br/>
