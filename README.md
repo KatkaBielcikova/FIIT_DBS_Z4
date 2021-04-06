@@ -1,4 +1,8 @@
 # DBS Zadanie 4
+
+nieco
+------
+<br/>
 ### Registracia
 ##### EMAIL
  - email (overenie cez potvrdzovacie tlacidlo)
