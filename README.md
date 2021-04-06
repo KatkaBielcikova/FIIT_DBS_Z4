@@ -5,7 +5,7 @@ Gods of the hunt (GOTH)
 
 
 
-<br/>
+
 ## Registracia
 ##### EMAIL
  - email (overenie cez potvrdzovacie tlacidlo)
