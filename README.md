@@ -106,10 +106,10 @@ Reciever je ten ktory je zablokovany a sender je ten co zablokoval recievera.
 V hre sa nachádzajú príšery rôznych druhov. Každá príšera má svoje meno a rozsah levelov na ktorých sa zobrazuje používateľovi. Medzi príšery patria napríklad:
 
  - Anger Minion - These exploding minions are made of scorched rock with only magma holding the brittle pieces together
- - Behemoth - a giant, it could drink an entire river, and its strength was significant
- - Apep - giant snake 
- - Ophanim - 
- - Gluttony Minions - a two-handed lunge attack and a green pallor,  they attacked in groups, Upon being destroyed, it would explode and leave behind a puddle of filth which could damage 
+ - Behemoth - a giant elephant that could drink an entire river, and its strength was significant
+ - Apep - giant snakel with venoumos skin/claws 
+ - Ophanim - angels of devil, they could see through every object infront of them and can only be destroyed from behind
+ - Gluttony Minions - they attacked in groups, Upon being destroyed, it would explode and leave behind a puddle of filth which could damage 
  - Gorger Worm -  If an unwary victim moves close to its burrow, they instantly rise up and attempt to devour it. They rise from the ground when you lures them out from the dusty area, trying to snap you.
  - Glutton -  attack by either vomiting on their foes, obese with jaws for hands, sagging mouths on their necks just below their ears and minds reduced to that of apes and eating anything that they came across
  - Hoarder/Waster - this pair of souls, one who hoarded in life and one who wasted are now melded into a singular creature, they swing around in a circle, tossing coins when they became threatened 
@@ -143,34 +143,34 @@ V hre sa nachadzaju ulohy ktore je splnaju postavy na postup v leveloch a ziskan
 <br/><br/>
 ## Mapa
 Hra sa odohrava na mape. Pouzivatelia vidia iba ostatnych pouzivatelov ktori sa nachadzaju v danej oblasti podla levelu. Kazda oblast sa teda viaze iba na prislusny level. V danej oblasti sa nachádzajú iba príšery a objekty prislúchajúce danému levelu. Medzi základné oblasti patria napríklad:
- - lvl.1: Limbo
+ lvl.1: Limbo
   - Anger Minion 
   - Behemoth 
- - lvl.2: Lust
+ lvl.2: Lust
   - Apep 
   - Ophanim 
- - lvl.3: Gluttony
+ lvl.3: Gluttony
   - Gluttony Minions
   - Gorger Worm 
   - Glutton 
- - lvl.4: Greed
+ lvl.4: Greed
   - Hoarder/Waster
   - Greed Minion 
   - Throne Demon
- - lvl.5: Anger
+ lvl.5: Anger
   - Fire guardian
   - Leviathan 
- - lvl.6: Heresy
+ lvl.6: Heresy
   -  Heretic 
   -  Pagan 
   -  Fiend
- - lvl.7: Violence
+ lvl.7: Violence
   - Arch Demon
   - Damned Crusader 
   - Damned Captain 
- - lvl.8: Fraud
+ lvl.8: Fraud
   - Malacoda 
- - lvl.9: Treachery
+ lvl.9: Treachery
   - Ice giants 
 
  > _**AREA_LIST**_ = id, level, name, matrix
