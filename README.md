@@ -106,12 +106,12 @@ Reciever je ten ktory je zablokovany a sender je ten co zablokoval recievera.
 V hre sa nachádzajú príšery rôznych druhov. Každá príšera má svoje meno a rozsah levelov na ktorých sa zobrazuje používateľovi. Medzi príšery patria napríklad:
 
 Gates to the Hell 
-	- Hell Hound 
-	- Typhon
-	- Fire Dragon
+- Hell Hound 
+- Typhon
+- Fire Dragon
 
 Cursed waters
-	- Selkies - Sea lions
+- Selkies - Sea lions
 	
 Highest mound   
 - Autron - 
@@ -119,14 +119,14 @@ Highest mound
 - Thalet - god of death (from Thanatos greek, Letus roman) 
 
 Earthly sins 
-	- MoonWizard 
-	- WarriorWitch 
-	- Darkpriest - devils right hand on earth 
+- MoonWizard 
+- WarriorWitch 
+- Darkpriest - devils right hand on earth 
 
 Forest - needs more cool name obv.
-	- Silverback - Werewolf 
-	- Fenrir - Giantic wolf 
- - Dark Talon
+- Silverback - Werewolf 
+- Fenrir - Giantic wolf 
+- Dark Talon
 
  - [ ] **TODO** Vymysliet nejake mena priser
 
