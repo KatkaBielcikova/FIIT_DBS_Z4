@@ -105,7 +105,26 @@ Reciever je ten ktory je zablokovany a sender je ten co zablokoval recievera.
 ## Monsters
 V hre sa nachádzajú príšery rôznych druhov. Každá príšera má svoje meno a rozsah levelov na ktorých sa zobrazuje používateľovi. Medzi príšery patria napríklad:
 
- - [ ] **TODO** Vymysliet nejake mena priser
+ - Anger Minion - These exploding minions are made of scorched rock with only magma holding the brittle pieces together
+ - Behemoth - a giant, it could drink an entire river, and its strength was significant
+ - Apep - giant snake 
+ - Ophanim - 
+ - Gluttony Minions - a two-handed lunge attack and a green pallor,  they attacked in groups, Upon being destroyed, it would explode and leave behind a puddle of filth which could damage 
+ - Gorger Worm -  If an unwary victim moves close to its burrow, they instantly rise up and attempt to devour it. They rise from the ground when you lures them out from the dusty area, trying to snap you.
+ - Glutton -  attack by either vomiting on their foes, obese with jaws for hands, sagging mouths on their necks just below their ears and minds reduced to that of apes and eating anything that they came across
+ - Hoarder/Waster - this pair of souls, one who hoarded in life and one who wasted are now melded into a singular creature, they swing around in a circle, tossing coins when they became threatened 
+ - Greed Minion -  extremely swift and evasive and appeared to shimmer like gold. They jump back and forth before attempting a leap attack
+ - Throne Demon -  gilded armor and are armed with a shield in one hand and a massive axe in the other
+ - Fire guardian - So long as these foes are in their smoke form, they are completely invincible to any kind of attack. Only when they are briefly in their fire forms, can they be extinguished by a strong blast from the Cross
+ - Leviathan - double-thick armor running down its back and muscular body, its skin tough as stone, giantic water lizard 
+ -  Heretic - warlocks in hell, their only power is energy shields that they can also use on other minions and blocked all magic and attacks, they are imune to cross, they can be destroyed by a special weapon 
+ -  Pagan - priests who carried a staff that could attack from a distance by firing balls of magical energy, easier to kill than herectic, no special weapon neeeded
+ -  Fiend - large flying blue haired bat like creature covered in fish scales and a lizards tail with the power to blast unblockable, icy projectiles, appear in large groups
+ - Arch Demon -  winged and armed with a pair of swords, 
+ - Damned Crusader - Their shields and armor are fragmented and their blades long since became rusted.
+ - Damned Captain - Leaders of crusaders,  They could engulf their shields in flames which would make them immune to attacks by a special weapon
+ - Malacoda -  wingless creature with shield of flames that surrounded them with a fiery protection, that can be reduced by cross 
+ - Ice giants - massive and humanoid creatures, confined to the icy gates surrounding Hell and they are unable to move though they are capable of seeing and  blowing their icy breath
 
  > _**MONSTER_LIST**_ = id, name, start_level, end_level, prerequired_monster (references monsterID), taskID_prerequired_task, exp_reward
 
@@ -124,13 +143,35 @@ V hre sa nachadzaju ulohy ktore je splnaju postavy na postup v leveloch a ziskan
 <br/><br/>
 ## Mapa
 Hra sa odohrava na mape. Pouzivatelia vidia iba ostatnych pouzivatelov ktori sa nachadzaju v danej oblasti podla levelu. Kazda oblast sa teda viaze iba na prislusny level. V danej oblasti sa nachádzajú iba príšery a objekty prislúchajúce danému levelu. Medzi základné oblasti patria napríklad:
- - lvl.1: 
- - lvl.2:
- - lvl.3:
- - lvl.4:
- - lvl.5:
-
- - [ ] **TODO** Vymysliet nejake oblasti
+ - lvl.1: Limbo
+  - Anger Minion 
+  - Behemoth 
+ - lvl.2: Lust
+  - Apep 
+  - Ophanim 
+ - lvl.3: Gluttony
+  - Gluttony Minions
+  - Gorger Worm 
+  - Glutton 
+ - lvl.4: Greed
+  - Hoarder/Waster
+  - Greed Minion 
+  - Throne Demon
+ - lvl.5: Anger
+  - Fire guardian
+  - Leviathan 
+ - lvl.6: Heresy
+  -  Heretic 
+  -  Pagan 
+  -  Fiend
+ - lvl.7: Violence
+  - Arch Demon
+  - Damned Crusader 
+  - Damned Captain 
+ - lvl.8: Fraud
+  - Malacoda 
+ - lvl.9: Treachery
+  - Ice giants 
 
  > _**AREA_LIST**_ = id, level, name, matrix
 
