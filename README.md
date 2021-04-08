@@ -143,44 +143,45 @@ V hre sa nachadzaju ulohy ktore je splnaju postavy na postup v leveloch a ziskan
 <br/><br/>
 ## Mapa
 Hra sa odohrava na mape. Pouzivatelia vidia iba ostatnych pouzivatelov ktori sa nachadzaju v danej oblasti podla levelu. Kazda oblast sa teda viaze iba na prislusny level. V danej oblasti sa nachádzajú iba príšery a objekty prislúchajúce danému levelu. Medzi základné oblasti patria napríklad:
- ![alt text](Obrazky/limbo_small.jpg)
-lvl.1: Limbo
+
+![alt text](Obrazky/limbo_small.jpg)  
+#### lvl.1: Limbo
   - Anger Minion 
-  - Behemoth
-![alt text](Obrazky/lust_small.jpg) 
- lvl.2: Lust
+  - Behemoth  
+![alt text](Obrazky/lust_small.jpg)   
+####  lvl.2: Lust
   - Apep 
-  - Ophanim 
- ![alt text](Obrazky/glutony_small.jpg)
- lvl.3: Gluttony
+  - Ophanim    
+![alt text](Obrazky/glutony_small.jpg)  
+####  lvl.3: Gluttony
   - Gluttony Minions
   - Gorger Worm 
-  - Glutton 
-  ![alt text](Obrazky/greed_small.jpg)
- lvl.4: Greed
+  - Glutton  
+![alt text](Obrazky/greed_small.jpg)  
+####  lvl.4: Greed
   - Hoarder/Waster
   - Greed Minion 
-  - Throne Demon
-  ![alt text](Obrazky/anger_small.jpg)
- lvl.5: Anger
+  - Throne Demon  
+![alt text](Obrazky/anger_small.jpg)  
+####  lvl.5: Anger
   - Fire guardian
-  - Leviathan
-  ![alt text](Obrazky/hoax_small.jpg)
- lvl.6: Heresy
+  - Leviathan  
+![alt text](Obrazky/hoax_small.jpg)  
+####  lvl.6: Heresy
   -  Heretic 
   -  Pagan 
-  -  Fiend
-  ![alt text](Obrazky/violence_small.jpg)
- lvl.7: Violence
+  -  Fiend  
+![alt text](Obrazky/violence_small.jpg)  
+####  lvl.7: Violence
   - Arch Demon
   - Damned Crusader 
-  - Damned Captain 
-  ![alt text](Obrazky/fraud_small.jpg)
- lvl.8: Fraud
-  - Malacoda 
-  ![alt text](Obrazky/betrayal_small.jpg)
- lvl.9: Treachery
-  - Ice giants 
+  - Damned Captain   
+![alt text](Obrazky/fraud_small.jpg)  
+####  lvl.8: Fraud
+  - Malacoda   
+![alt text](Obrazky/betrayal_small.jpg)  
+####  lvl.9: Treachery
+  - Ice giants   
 
  > _**AREA_LIST**_ = id, level, name, matrix
 
