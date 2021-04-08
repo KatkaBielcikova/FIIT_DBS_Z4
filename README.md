@@ -105,7 +105,7 @@ Reciever je ten ktory je zablokovany a sender je ten co zablokoval recievera.
 ## Monsters
 V hre sa nachádzajú príšery rôznych druhov. Každá príšera má svoje meno a rozsah levelov na ktorých sa zobrazuje používateľovi. Medzi príšery patria napríklad:
 
- #### **Anger Minion **
+ #### **Anger Minion**
   - Explodujúci poskokovia, ktorí sú tvorení z kameňov, ktoré drží magma pokope. Dokážu vypľúvať magmu na svojich nepriateľov. Minions sú jedny z najslabších bojovníkov a je možné ich zničiť úderom zbraňou Sacred Cross. 
  #### **Behemoth** 
   - Obrovský slon, ktorý dokázal nasať celú rieku a nasledne sa chrániť a útočiť silným prúdom vody. Je ťažšie ho premôcť pretože je priam nemožné na Behemota útočiť tvárov v tvár, je potrebné sa mu vyhnúť a dostať sa do pozície, kde nedokáže postavu zasiahnuť prúdom vody a vtedy ju je možné zničiť.
