@@ -105,26 +105,26 @@ Reciever je ten ktory je zablokovany a sender je ten co zablokoval recievera.
 ## Monsters
 V hre sa nachádzajú príšery rôznych druhov. Každá príšera má svoje meno a rozsah levelov na ktorých sa zobrazuje používateľovi. Medzi príšery patria napríklad:
 
- - Anger Minion - These exploding minions are made of scorched rock with only magma holding the brittle pieces together
- - Behemoth - a giant elephant that could drink an entire river, and its strength was significant
- - Apep - giant snakel with venoumos skin/claws 
- - Ophanim - angels of devil, they could see through every object infront of them and can only be destroyed from behind
- - Gluttony Minions - they attacked in groups, Upon being destroyed, it would explode and leave behind a puddle of filth which could damage 
- - Gorger Worm -  If an unwary victim moves close to its burrow, they instantly rise up and attempt to devour it. They rise from the ground when you lures them out from the dusty area, trying to snap you.
- - Glutton -  attack by either vomiting on their foes, obese with jaws for hands, sagging mouths on their necks just below their ears and minds reduced to that of apes and eating anything that they came across
- - Hoarder/Waster - this pair of souls, one who hoarded in life and one who wasted are now melded into a singular creature, they swing around in a circle, tossing coins when they became threatened 
- - Greed Minion -  extremely swift and evasive and appeared to shimmer like gold. They jump back and forth before attempting a leap attack
- - Throne Demon -  gilded armor and are armed with a shield in one hand and a massive axe in the other
- - Fire guardian - So long as these foes are in their smoke form, they are completely invincible to any kind of attack. Only when they are briefly in their fire forms, can they be extinguished by a strong blast from the Cross
- - Leviathan - double-thick armor running down its back and muscular body, its skin tough as stone, giantic water lizard 
- -  Heretic - warlocks in hell, their only power is energy shields that they can also use on other minions and blocked all magic and attacks, they are imune to cross, they can be destroyed by a special weapon 
- -  Pagan - priests who carried a staff that could attack from a distance by firing balls of magical energy, easier to kill than herectic, no special weapon neeeded
- -  Fiend - large flying blue haired bat like creature covered in fish scales and a lizards tail with the power to blast unblockable, icy projectiles, appear in large groups
- - Arch Demon -  winged and armed with a pair of swords, 
- - Damned Crusader - Their shields and armor are fragmented and their blades long since became rusted.
- - Damned Captain - Leaders of crusaders,  They could engulf their shields in flames which would make them immune to attacks by a special weapon
- - Malacoda -  wingless creature with shield of flames that surrounded them with a fiery protection, that can be reduced by cross 
- - Ice giants - massive and humanoid creatures, confined to the icy gates surrounding Hell and they are unable to move though they are capable of seeing and  blowing their icy breath
+ - Anger Minion - Explodujúci poskokovia, ktorí sú tvorení z kameňov, ktoré drží magma pokope. Dokážu vypľúvať magmu na svojich nepriateľov. Minions sú jedny z najslabších bojovníkov a je možné ich zničiť úderom zbraňou Sacred Cross. 
+ - Behemoth - Obrovský slon, ktorý dokázal nasať celú rieku a nasledne sa chrániť a útočiť silným prúdom vody. Je ťažšie ho premôcť pretože je priam nemožné na Behemota útočiť tvárov v tvár, je potrebné sa mu vyhnúť a dostať sa do pozície, kde nedokáže postavu zasiahnuť prúdom vody a vtedy ju je možné zničiť.
+ - Apep - Obrovský had s jedovatými tesákmi, ktoré pri zasiahnutí znamenajú stratu jedného života, taktiež je náročné zničiť hada, keďže pri dotyku jeho kože stratíte 25% života. Avšak hada je možné zabiť iba obetovaním časti života a následným presným zasahom hada. 
+ - Ophanim - Diablovi anjeli, ktorí dokáyali vidieť cez každý objekt pred nimi a preto ich bolo možné zničiť iba útokom zozadu.
+ - Gluttony Minions - Útočili v skupinách a po ich zničení vybuchli a zanechali za sebou kaluž zelenej tekutiny, pri vstupe do tejto tekutiny prídete o 30% života a kaluž ostáva po dobu 3s. Je možné ich zničiť využitím immortality pointion, ktorá dovolí postave chodiť cez kaluže. 
+ - Gorger Worm - Ich pozornosť úputaš až keď sa  If an unwary victim moves close to its burrow, they instantly rise up and attempt to devour it. They rise from the ground when you lures them out from the dusty area, trying to snap you.
+ - Glutton - Obézne bytosti s čeľusťami namiesto rúk a ochabnutými ústami na na krku. Požierajú všetko čo im príde do cesty a je možné ich zabiť iba pomocou zbrane Scythe.
+ - Hoarder/Waster - dvojica duší, ktorá počas života žila v blahobyte, ktorý premrhala, sa teraz pretavila do stvorenia, ktoré sa hojdá v kruhu a hádže mince, keď sú v ohrození. Na porazenie je potrebný štít(??nová zbraň??), ktorý odrazí mince a pomôže sa dostať k monštru. 
+ - Greed Minion - mimoriadne rýchle a úhybné monštrá, ktoré vyzerajú , že sa trblietajú ako zlato. Skáču tam a späť pred pokusom o útok
+ - Throne Demon -  majú pozlátené brnenie a sú vyzbrojené štítom v jednej ruke a masívnou sekerou v druhej
+ - Fire guardian - Pokiaľ je toto monštrum vo svojej dymovej forme, sú úplne neporaziteľní pre akýkoľvek druh útoku. Iba keď sú krátko v ohni, môžu byť uhasení silným výbuchom zbrane Sacred Cross
+ - Leviathan - dvojitý silný pancier, ktorý sa tihaol po chrbte a svalnatom tele obrovské vodného jaštera, jeho pokožka bola tvrdá ako kameň a chvost bol ukončený pevnými ostňami
+ - Heretic - čarodejníci v pekle, ich jedinou silou sú energetické štíty, ktoré môžu použiť aj na iných prisluhovačov, aby zablokovali všetku mágiu a útoky. Nie je možné ich zničiť pomocou zbrane Sacred Cross, dajú sa zničiť špeciálnou zbraňou Scythe.
+ - Pagan - kňazi, ktorí niesli palicu, ktorá mohla zaútočiť na diaľku vystreľovaním gule nabitej magickou energiou. Ichh zabitie bolo jednoduchšie ako herektikov,pretože nebola nutná žiadna špeciálna zbraň. 
+ - Fiend - vo veľkých skupinách sa objavuje veľký lietajúci netopier pokrytý rybími šupinami a jašteričý chvost so silou odpáliť neblokovateľné
+ - Arch Demon -  Okrídlený démon, ktorý je vyzbrojený párom mečov. 
+ - Damned Crusader - Ich štíty a brnenie sú rozdrobené a ich čepele už dávno zhrdzaveli.
+ - Damned Captain -Vodcovia Crusaderov, ktorí mohli svoje štíty pohltiť plameňmi, vďaka čomu by boli imunní voči útokom špeciálnej zbrane.
+ - Malacoda -  bezkrídle stvorenie obklopené štítom z plameňov, ktoré ich obklopovalo ohnivou ochranou, ktorú je možné znížiť pomocou zbrane Sacred Cross
+ - Ice giants - masívne a humanoidné tvory, ktoré sú súčasťou a obranou ľadovej brány obklopujúcej peklo. Keďže sú súčasť bránz nie sú schopné pohybu, avšak sú schopné vidieť a vyfúknuť svoj ľadový dych, ktorý dokáže zmraziť hráča na nejaký čas a pripraviť ho o polovicu života.
 
  > _**MONSTER_LIST**_ = id, name, start_level, end_level, prerequired_monster (references monsterID), taskID_prerequired_task, exp_reward
 
@@ -136,7 +136,7 @@ V hre sa nachadzaju ulohy ktore je splnaju postavy na postup v leveloch a ziskan
 
  - [ ] **TODO** Vymysliet nejake ulohy
 
- > _**TASK_LIST**_ = id, areaID, preprequired_monster_kill, prerequired_task, character_lvl, exp_reward
+ > _**TASK_LIST**_ = id, areaID, preprequired_monster_kill, prerequired_task, character_lvl, exp_reward, item_reward(REFERENCES itemsID)
 
  > _**TASKS**_ = id, taskID, ownerID (REFERENCES characterID), started_at, finished_at (null if not finished)
 
@@ -203,11 +203,15 @@ Zberateľské účely:
 Zbrane a brnenie:
  - Smaugs tooth (slúži ako ochrana hlavy, 9/10 * defense_number)
  - Excalibur (2 * attack_number)
+ - Schythe (nová zbraň) 
+ - Shield (nová ochrana proti útoku, nevyhnutná v určitom leveli)
 
 Potions and amulets:
  - Potion of immortality (po vypití 1minúta)
  - Potion of enemy vision (po vypití vidí použivateľ po dobu 1nej minúty okolo seba všetkých používateľov a príšery nachádzajúce sa aj za objektami v jeho blízkosti)
 
+Starter package:
+ - Sacred Cross (zbraň, ktorú má každá postava od začiatku a môže ju použiť pri útokoch na pekelné monštrá)
  > _**ITEM_LIST**_ = id, areaID, prerequired_kill (references monsterID), prerequired_task (references taskID), lives_increase, attack_number_increase, defense_number_increase, time_span (ako dlho to mozes mat u seba)
 
  > _**ITEMS**_ = id, ownerID (REFERENCES characterID), status (used = 1, unused=null), required_at, used_at, time_span
