@@ -182,6 +182,7 @@ Hra sa odohrava na mape. Pouzivatelia vidia iba ostatnych pouzivatelov ktori sa 
   - Arch Demon
   - Damned Crusader 
   - Damned Captain   
+
 ![alt text](Obrazky/fraud_small.jpg)  
 ####  lvl.8: Fraud
   - Malacoda   
